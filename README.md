@@ -1,51 +1,65 @@
-<h1>Hi, I'm Milan! <br/><a href="https://github.com/milanguru">Cloud </a> and a <a href="https://www.linkedin.com/in/milan-gurung-834817114/">Cybersecurity </a>Professional
+# Hi, I'm Milan 👋
 
-<h2>👨‍💻 Cloud Projects:</h2>
+IT Support professional based in London, transitioning from 8 years in security operations at high-profile government sites. I hold **CompTIA A+** and **Microsoft 365 Fundamentals (MS-900)** certifications and hold rare UK Government **DV (Developed Vetting)** clearance — actively building my home lab and documenting real-world IT support scenarios.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+---
 
-<h2> Cybersecurity Projects </h2>
+## 🛠️ What I'm working on
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- Documenting Windows 10/11 troubleshooting walkthroughs from my home lab
+- Building out Active Directory labs using VirtualBox and Windows Server
+- Practising helpdesk ticketing simulations and resolution write-ups
+- Working toward **CompTIA Network+**
 
-<h2>Certifications</h2>
+---
 
-<h2> 🤳 Connect with me:</h2>
+## ⚙️ Tech stack & tools
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+![Windows](https://img.shields.io/badge/Windows%2010%2F11-0078D6?style=flat&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-003087?style=flat&logo=microsoft&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20AD%20%2F%20Entra%20ID-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![Networking](https://img.shields.io/badge/SOHO%20Networking-00897B?style=flat&logo=cisco&logoColor=white)
 
+---
 
-[linkedin]:https://www.linkedin.com/in/milan-gurung-834817114/
+## 📜 Certifications
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Certification | Issuer | Status |
+|---|---|---|
+| CompTIA A+ | CompTIA | ✅ Certified |
+| Microsoft 365 Fundamentals (MS-900) | Microsoft | ✅ Certified — Nov 2025 |
+| CompTIA Network+ | CompTIA | 🔄 In progress |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Repositories
+
+| Repo | Description |
+|---|---|
+| [windows-support-lab](.) | Step-by-step walkthroughs for common Windows 10/11 issues — clean installs, driver troubleshooting, update failures, user account management |
+| [active-directory-homelab](.) | VM-based AD lab using VirtualBox and Windows Server 2022. Domain setup, user/group management, GPO basics, password resets |
+| [helpdesk-ticket-simulator](.) | Mock IT helpdesk scenarios with documented resolution steps — hardware faults, M365 issues, network drops, access control problems |
+| [soho-networking-notes](.) | Lab write-ups on SOHO networking — IP addressing, DNS, DHCP, Wi-Fi setup and fault-finding using ping, ipconfig, tracert |
+| [m365-study-notes](.) | Revision notes and scenarios used to pass MS-900. Covers cloud concepts, M365 services, compliance and security fundamentals |
+| [comptia-a-plus-notes](.) | Study notes and cheat sheets from CompTIA A+ exam prep — hardware, OS, networking, troubleshooting and security domains |
+
+---
+
+## 🎯 Career goal
+
+Seeking a **1st Line / Service Desk / IT Support** role — ideally within government, defence, or a managed service provider working with public sector clients. Long-term path into network or cyber security.
+
+---
+
+## 📫 Get in touch
+
+- 💼 [LinkedIn](https://linkedin.com/in/milangurung) 
+- 📧 gurung_milan@outlook.com
+- 📍 London, UK — open to on-site, hybrid, or remote roles
+
+---
+
+*🔐 UK Government DV Cleared — available for roles requiring the highest level of UK security vetting*
